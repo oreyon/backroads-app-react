@@ -1,5 +1,3 @@
-import React from 'react';
-
 const SocialLink = ({ href, icon, itemClass }) => {
 	return (
 		<li>

@@ -1,4 +1,3 @@
-import React from 'react';
 import logo from '../images/logo.svg';
 import { socialLinks } from '../data.js';
 import PageLinks from './PageLinks.js';
